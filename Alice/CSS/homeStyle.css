@@ -1,0 +1,126 @@
+.site_top {
+    position: relative;
+    z-index: 100;
+    height: 120px;
+    min-width: 1000px;
+    line-height: 120px;
+    background: transparent url("top_start_bg.jpg") no-repeat scroll 86% 0px;
+}
+body {
+    font-family: "微软雅黑";
+}
+body {
+    font: 12px/1.5 Tahoma,Helvetica,Arial,"宋体",sans-serif;
+}
+.site_top .concenter {
+    height: 120px;
+}
+.concenter {
+    width: 1000px;
+    margin: 0px auto;
+}
+.top_r {
+    float: right;
+    height: 89px;
+    width: 273px;
+    margin: 36px 0px 0px;
+    text-align: center;
+    background: transparent url("site_top_rbox.jpg") no-repeat scroll 0px 0px;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td, img, area, param {
+    margin: 0px;
+    padding: 0px;
+}
+
+.site_top h1 {
+    float: left;
+    position: relative;
+    height: 68px;
+    margin: 26px 0px 0px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-size: 100%;
+    font-weight: normal;
+}
+
+.site_top h1 a {
+    display: block;
+    width: 246px;
+}
+
+a:link {
+    text-decoration: none;
+}
+.site_top {
+    float: left;
+    display: block;
+    height: 34px;
+    width: 61px;
+    margin: 21px 0px 0px 266px;
+    padding: 3px 0px 0px 13px;
+    color: #a00020;
+    line-height: 18px;
+}
+.top_r .tel_box {
+    color: #006CDC;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 100%;
+    margin: 23px 0px 0px;
+}
+
+.top_r {
+    font-family: "arial";
+}
+.tor_r_footer {
+    width: 200px;
+    margin: 13px auto 0px;
+    height: 15px;
+    line-height: 15px;
+    color: #666;
+    font-size: 13px;
+}
+.tor_r_footer .weibo {
+    padding: 0px 0px 0px 26px;
+    background: rgb(252, 252, 252) url("icon_img1.png") no-repeat scroll -3px -10px;
+    color: #666;
+}
+a:link {
+    text-decoration: none;
+}
+.fl {
+    float: left;
+}
+.tor_r_footer .weixin {
+    display: inline-block;
+    position: relative;
+    padding: 0px 0px 0px 24px;
+    background: transparent url("icon_img2.png") no-repeat scroll -3px -5px;
+    cursor: pointer;
+    color: #666;
+}
+.tor_r_footer .weixin img {
+    position: absolute;
+    top: 20px;
+    right: -10px;
+    display: none;
+    background: #FFF none repeat scroll 0% 0%;
+    padding: 7px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 13px -3px #000;
+}
+img {
+    border: medium none;
+    display: inline-block;
+    vertical-align: middle;
+}
+.fr {
+    float: right;
+}
+a:link {
+    text-decoration: none;
+}
+.top_r {
+    text-align: center;
+}
+
